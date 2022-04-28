@@ -1,3 +1,3 @@
 # faculdade
-Cursando ADS
-UNINTER
+- Cursando ADS
+- UNINTER
